@@ -46,7 +46,7 @@ curl https://raw.githubusercontent.com/npocmaka/batch.scripts/master/hybrids/jsc
 cls
 
 echo Downloading The GTA5 Public-Solo Script...
-curl https://raw.githubusercontent.com/ronron555/GTA5-PublicSolo/main/Public-Solo.bat --output GTA5-PublicSolo.bat
+curl https://raw.githubusercontent.com/ronron555/GTA5-PublicSolo/main/src/Public-Solo.bat --output GTA5-PublicSolo.bat
 cls
 
 set SCRIPT="%TEMP%\%RANDOM%-%RANDOM%-%RANDOM%-%RANDOM%.vbs"
