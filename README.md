@@ -1,5 +1,5 @@
 # GTA5-PublicSolo
-A method to "convert" a public GTA Online lobby into a "private" one.
+A method to "convert" a public GTA Online lobby into a "Public-Solo" one.
 
 # Requirements
 - **[7-Zip](https://www.7-zip.org/)** *(Installed automatically if it's not installed under "C:\Program Files\7-Zip" by the installation script)*
