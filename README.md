@@ -7,7 +7,7 @@ A method to "convert" a public GTA Online session into a "Public-Solo" one.
 - **[sendKeys](https://github.com/npocmaka/batch.scripts/blob/master/hybrids/jscript/sendKeys.bat) by [npocmaka](https://github.com/npocmaka)** *(Downloaded automatically by the installation script)*
 
 # Installation
-Download and Run ["Install Script.bat"](https://raw.githubusercontent.com/ronron555/GTA5-PublicSolo/main/Install%20Script.bat) *(Press CTRL+S to download)*
+Download and Run [Install Script.bat](https://raw.githubusercontent.com/ronron555/GTA5-PublicSolo/main/Install%20Script.bat) *(Press CTRL+S to download)*
 
 It will do the following:
 1. Download and install all the requirements.
