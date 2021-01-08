@@ -4,7 +4,7 @@ A method to "convert" a public GTA Online session into a "Public-Solo" one.
 # Requirements
 - **[7-Zip](https://www.7-zip.org/)** *(Installed automatically if it's not installed under "C:\Program Files\7-Zip" by the installation script)*
 - **[PSTools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)** *(Downloaded and extracted automatically by the installation script)*
-- **[sendKeys](https://github.com/npocmaka/batch.scripts/blob/master/hybrids/jscript/sendKeys.bat) by [npocmaka](https://github.com/npocmaka)** -(Downloaded automatically by the installation script)*
+- **[sendKeys](https://github.com/npocmaka/batch.scripts/blob/master/hybrids/jscript/sendKeys.bat) by [npocmaka](https://github.com/npocmaka)** *(Downloaded automatically by the installation script)*
 
 # Installation
 Run "Install Script.bat"
