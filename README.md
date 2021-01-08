@@ -12,7 +12,7 @@ A method to "convert" a public GTA Online session into a "Public-Solo" one.
 
 Download and Run [Install Script.bat](https://raw.githubusercontent.com/ronron555/GTA5-PublicSolo/main/Install%20Script.bat) _(Press CTRL+S to download)_
 
-It will do the following:
+#### It will do the following:
 
 1. Download and install all the requirements.
 2. Save the script in your user folder under the folder "Scripts".
