@@ -1,4 +1,5 @@
 @echo off
+setlocal
 cd %UserProfile%\Scripts\PSTools
 cls
 echo Suspending GTA5.exe process...
