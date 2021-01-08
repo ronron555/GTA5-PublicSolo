@@ -52,7 +52,7 @@ cls
 set SCRIPT="%TEMP%\%RANDOM%-%RANDOM%-%RANDOM%-%RANDOM%.vbs"
 
 echo Set oWS = WScript.CreateObject("WScript.Shell") >> %SCRIPT%
-echo sLinkFile = "%USERPROFILE%\Desktop\GTA5 Public-Solo.lnk" >> %SCRIPT%
+echo sLinkFile = "%UserProfile%\Desktop\GTA5 Public-Solo.lnk" >> %SCRIPT%
 echo Set oLink = oWS.CreateShortcut(sLinkFile) >> %SCRIPT%
 echo oLink.TargetPath = "%UserProfile%\Scripts\GTA5-PublicSolo.bat" >> %SCRIPT%
 echo oLink.Save >> %SCRIPT%
