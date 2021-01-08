@@ -16,3 +16,6 @@ It will do the following:
 
 # Usage
 After GTA Online has been loaded and joined a public session, run the script located in the desktop called "GTA5 Public-Solo"
+
+# Demo
+[![Demo](https://img.youtube.com/vi/SpXpD9s5ZJI/0.jpg)](https://www.youtube.com/watch?v=SpXpD9s5ZJI)
