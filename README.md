@@ -24,4 +24,4 @@ After GTA Online has been loaded and joined a public session, run the script loc
 
 ### Demo
 
-[![Demo](https://i.imgur.com/nlQl4DI.png)](https://www.youtube.com/watch?v=SpXpD9s5ZJI)
+[![Demo](https://i.imgur.com/leLKXdh.png)](https://www.youtube.com/watch?v=SpXpD9s5ZJI)
